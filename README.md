@@ -4,9 +4,6 @@
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiojr933&show_icons=true&theme=dracula&count)
 
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiojr933)
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
